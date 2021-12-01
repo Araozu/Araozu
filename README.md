@@ -3,28 +3,23 @@
 I'm a student of systems engineering at the Universidad Nacional de San Agustin, Arequipa, Perú.
 I enjoy bulding software for the web and learning about new and weird programming languages.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Main Projects
 
-### [AdventOfCode 2020 🎯](https://github.com/Araozu/AdventOfCode2020)
+### [Advent Of Code 🎯](https://github.com/Araozu/JAdvent21)
 
-I'm solving all the puzzles of Advent of code 2020 with many languages:
-**C#, Kotlin, Elixir, F#**
+I'm solving all the puzzles of Advent of code with Java!
 
-### [KScript 🧠](https://kscript.araozu.dev)
+### KScript/Misti 🧠
 
-This is the compiler for a new programming language that I made. It takes KScript code as input,
-and gives JavaScript + source maps as output! The compiler is built with **TypeScript**.
-
-It also has a web page that contains documentation, as well as an simple code editor.
-Built with **Vue.js, Pug, JS, CoffeeScript and Sass**
+It's a programming language I'm creating for fun. It will be (hopefully) released one day.
 
 ### [Horarios Unsa 📚](https://horarios.araozu.dev)
 
 A simple web page that help students of the Universidad Nacional de San Agustin to choose and organize
-their courses. It is built with **Vue and TypeScript**
+their courses. It has gone through many rewrites, including pure JS, Vuejs, Solidjs and maybe Reactjs in the future.
 
-### [RiMaJon 🎲](https://rimajonv.araozu.dev/)
+## Other projects
 
-This is a card game inspired by Mahjong made for the web. The backend is built with **Kotlin**
-and the frontend uses **Vue**.
-
+Over the years I've worked in many other projects for fun, testing new ideas, and university. I'm proficient with web technologies (Vue, React, Typescript) and Java/Kotlin.
