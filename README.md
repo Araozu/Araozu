@@ -3,17 +3,17 @@
 I'm a student of systems engineering at the Universidad Nacional de San Agustin, Arequipa, Perú.
 I enjoy bulding software for the web and learning about new and weird programming languages.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main Projects
 
-### [Advent Of Code 🎯](https://github.com/Araozu/JAdvent21)
+### [Advent Of Code 🎯]
 
-I'm solving all the puzzles of Advent of code with Java!
+I'm solving the Advent of Code problems, mainly in Java. Often times assignments from University get in the way, though.
 
 ### KScript/Misti 🧠
 
-It's a programming language I'm creating for fun. It will be (hopefully) released one day.
+It's a programming language I'm creating for fun. It will be (hopefully) released one day. It includes a compiler that emits js/bytecode, a future vm that interprets that bytecode, and a webpage for documentation.
 
 ### [Horarios Unsa 📚](https://horarios.araozu.dev)
 
