@@ -3,7 +3,7 @@
 I'm a student of systems engineering at the Universidad Nacional de San Agustin, Arequipa, Perú.
 I enjoy bulding software for the web and learning about new and weird programming languages.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main Projects
 
