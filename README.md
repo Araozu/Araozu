@@ -5,21 +5,41 @@ I enjoy bulding software for the web and learning about new and weird programmin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
-## Main Projects
+## Side Projects
 
-### [Advent Of Code 🎯]
+### Misti lang 🧠
 
-I'm solving the Advent of Code problems, mainly in Java. Often times assignments from University get in the way, though.
+A statically typed language that compiles to JavaScript, written in Rust. It's documentation is written with Markdown and served with a SPA built with the Solid.js framework
 
-### KScript/Misti 🧠
+[Compiler repo](https://github.com/Araozu/misti-rs)
 
-It's a programming language I'm creating for fun. It will be (hopefully) released one day. It includes a compiler that emits js/bytecode, a future vm that interprets that bytecode, and a webpage for documentation.
+[Documentation repo](https://github.com/Araozu/misti-web)
 
-### [Horarios Unsa 📚](https://horarios.araozu.dev)
+[Webpage](https://misti.araozu.dev)
+
+
+### Horarios Unsa 📚
 
 A simple web page that help students of the Universidad Nacional de San Agustin to choose and organize
-their courses. It has gone through many rewrites, including pure JS, Vuejs, Solidjs and maybe Reactjs in the future.
+their courses. It has gone through many rewrites, including pure JS, Vuejs and Solidjs.
 
-## Other projects
+[Latest version (Solid.js)](https://horarios.araozu.dev)
 
-Over the years I've worked in many other projects for fun, testing new ideas, and university. I'm proficient with web technologies (Vue, React, Typescript) and Java/Kotlin.
+[Previous version (Vue.js)](https://horarios.araozu.dev)
+
+[Initial version (Pure JS)](https://gitlab.com/Araozu/sistemahorariosunsa)
+
+
+### Advent Of Code 🎯
+
+Advent of Code problems in different languages.
+
+
+### Habits gamification App
+
+A habit tracker android app with gamification features, written with Kotlin and Android MDC. Similar to [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
+
+
+### Jergas
+
+Crowdsourced dictionary like Urban Dictionary, but in Spanish. An API, Webpage and Android app are planned.
