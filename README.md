@@ -5,6 +5,12 @@ I enjoy bulding software for the web and learning about new and weird programmin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
+## Professional Projects
+
+[Accreditation quality management](https://github.com/Araozu/fac-psicologia-mirror)
+
+React.js. Front-end for an accreditation quality management software.
+
 ## Side Projects
 
 ### Misti lang 🧠
@@ -43,3 +49,14 @@ A habit tracker android app with gamification features, written with Kotlin and 
 ### Jergas
 
 Crowdsourced dictionary like Urban Dictionary, but in Spanish. An API, Webpage and Android app are planned.
+
+
+## University projects
+
+- [BERT for depression detection in Spanish](https://github.com/Araozu/tesis-pipeline) Python. RNN trained on a spanish depression dataset.
+- [Flutter app](https://github.com/Araozu/ProyectoPE) Simple Flutter app to showcase various concepts.
+- [Emisa case study](https://github.com/Araozu/emisa) Java EE, Vue.js, MariaDB, Docker. CRUD for a ficticious case study.
+- [Hash Algorithms](https://github.com/Araozu/HashAlgorithms) Java. MD4, MD5, SHA-1 and SHA-256 algorithms.
+- [SkipList](https://github.com/Araozu/SkipList) Java.
+- Other small projects and tasks
+
