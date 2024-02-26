@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Fernando Araoz
 
 Systems Engineering Bachelor at [Universidad Nacional de San Agustin](https://www.unsa.edu.pe/en/).
-I love learning new tools, technologies and programming languages, mainly for the web. I'm also passionate in PL design, development and research.
+I love learning new tools, technologies and programming languages, mainly for the web. I'm also passionate about PL design, development and research.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
