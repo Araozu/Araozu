@@ -1,9 +1,23 @@
-### Hi 👋, I'm Fernando Araoz
+# Hello there 👋, I'm Fernando Araoz
 
-I'm a student of systems engineering at the Universidad Nacional de San Agustin, Arequipa, Perú.
-I enjoy bulding software for the web and learning about new and weird programming languages.
+Systems Engineering Bachelor at [Universidad Nacional de San Agustin](https://www.unsa.edu.pe/en/).
+I love learning new tools, technologies and programming languages, mainly for the web. I'm also passionate in PL design, development and research.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
+## Languages status
+
+- In love with Rust 🦀 (currently rewritting everything \s)
+- Well versed in TypeScript/JavaScript 🌐
+- Proficient in Java/Kotlin ♨️
+- Trying out Go 📨
+
+Other languages I've worked with: C, C++, Microsoft Java, PHP, Python, Dart
+
+Other languages I've tried for fun: Elixir, Erlang, Gleam, CoffeeScript, Racket,
+Zig, F#, Haskell, OCaml, ReScript, Swift, Scala, Clojure, Bash, Lua.
+
+## TODO: update projects
 
 ## Professional Projects
 
@@ -39,11 +53,6 @@ their courses. It has gone through many rewrites, including pure JS, Vuejs and S
 ### Advent Of Code 🎯
 
 Advent of Code problems in different languages.
-
-
-### Habits gamification App
-
-A habit tracker android app with gamification features, written with Kotlin and Android MDC. Similar to [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup).
 
 
 ### Jergas
