@@ -17,47 +17,54 @@ Other languages I've worked with: C, C++, Microsoft Java, PHP, Python, Dart
 Other languages I've tried for fun: Elixir, Erlang, Gleam, CoffeeScript, Racket,
 Zig, F#, Haskell, OCaml, ReScript, Swift, Scala, Clojure, Bash, Lua.
 
-## TODO: update projects
 
 ## Professional Projects
 
-[Accreditation quality management](https://github.com/Araozu/fac-psicologia-mirror)
+### Certificate Manager
 
-React.js. Front-end for an accreditation quality management software.
+Internal system for my last job that automates registration, generation and validation of
+certificates for online courses.
+
+### [Accreditation quality management](https://github.com/Araozu/fac-psicologia-mirror)
+
+Front-end for an internal accreditation quality management software.
+
 
 ## Side Projects
 
-### Misti lang 🧠
+### THP: Typed Hypertext Processor 🧠
 
-A statically typed language that compiles to JavaScript, written in Rust. It's documentation is written with Markdown and served with a SPA built with the Solid.js framework
+A statically typed, functional-first programming language that transpiles to PHP.
+Fully written in Rust.
 
-[Compiler repo](https://github.com/Araozu/misti-rs)
+[Compiler](https://github.com/Araozu/thp-lang)
 
-[Documentation repo](https://github.com/Araozu/misti-web)
-
-[Webpage](https://misti.araozu.dev)
+[Webpage](https://thp.araozu.dev)
 
 
 ### Horarios Unsa 📚
 
-A simple web page that help students of the Universidad Nacional de San Agustin to choose and organize
-their courses. It has gone through many rewrites, including pure JS, Vuejs and Solidjs.
+A web page that help students of the Universidad Nacional de San Agustin to choose and organize
+their courses. It has gone through many rewrites, using pure JS, Vuejs and Solidjs.
 
-[Latest version (Solid.js)](https://horarios.araozu.dev)
+[Latest version (Solid.js)](https://horarios-v3.araozu.dev)
 
-[Previous version (Vue.js)](https://horarios.araozu.dev)
+[Previous version (Vue.js)](https://horarios-v2.araozu.dev)
 
-[Initial version (Pure JS)](https://gitlab.com/Araozu/sistemahorariosunsa)
+[Initial version (Pure JS)](https://horarios-v1.araozu.dev)
 
 
 ### Advent Of Code 🎯
 
 Advent of Code problems in different languages.
 
+[AoC 2020 - C#, F#, Kotlin, Elixir](https://github.com/Araozu/AdventOfCode2020)
+[AoC 2020 - Go](https://git.araozu.dev/fernando/advent-20)
 
-### Jergas
 
-Crowdsourced dictionary like Urban Dictionary, but in Spanish. An API, Webpage and Android app are planned.
+### Jerguero - name TBD - WIP
+
+Crowdsourced dictionary like Urban Dictionary, but in Spanish. Written in Rust & HTMX
 
 
 ## University projects
