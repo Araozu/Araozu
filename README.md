@@ -1,21 +1,24 @@
 # Hello there 👋, I'm Fernando Araoz
 
+[https://araozu.dev](https://araozu.dev) <- This info and more.
+
 Systems Engineering Bachelor at [Universidad Nacional de San Agustin](https://www.unsa.edu.pe/en/).
 I love learning new tools, technologies and programming languages, mainly for the web. I'm also passionate about PL design, development and research.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Araozu&exclude_repo=FinalIDSE&hide=javascript,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
-## Languages status
+## Language status
 
-- In love with Rust 🦀 (currently rewritting everything \s)
+- In love with Rust 🦀 (currently rewritting everything)
 - Well versed in TypeScript/JavaScript 🌐
 - Proficient in Java/Kotlin ♨️
 - Trying out Go 📨
+- Intrigued about Zig ⚡
 
 Other languages I've worked with: C, C++, Microsoft Java, PHP, Python, Dart
 
 Other languages I've tried for fun: Elixir, Erlang, Gleam, CoffeeScript, Racket,
-Zig, F#, Haskell, OCaml, ReScript, Swift, Scala, Clojure, Bash, Lua.
+F#, Haskell, OCaml, ReScript, Swift, Scala, Clojure, Bash, Lua.
 
 
 ## Professional Projects
@@ -30,7 +33,7 @@ certificates for online courses.
 Front-end for an internal accreditation quality management software.
 
 
-## Side Projects
+## (some) Side Projects
 
 ### THP: Typed Hypertext Processor 🧠
 
