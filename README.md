@@ -9,11 +9,11 @@ I love learning new tools, technologies and programming languages, mainly for th
 
 ## Language status
 
-- In love with Rust 🦀 (currently rewritting everything)
+- Friendship ended with Rust 🦀, now Zig ⚡ is my best friend
 - Well versed in TypeScript/JavaScript 🌐
 - Proficient in Java/Kotlin ♨️
-- Trying out Go 📨
-- Intrigued about Zig ⚡
+- Comfortable with Go 📨
+- Trying out Clojure & Lisp λ
 
 Other languages I've worked with: C, C++, Microsoft Java, PHP, Python, Dart
 
