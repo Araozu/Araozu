@@ -10,12 +10,12 @@ I love learning new tools, technologies and programming languages, mainly for th
 ## Language status
 
 - Friendship ended with Rust 🦀, now Zig ⚡ is my best friend
-- Well versed in TypeScript/JavaScript 🌐
-- Proficient in Java/Kotlin ♨️
+- Friendship ended with Java/Kotlin ♨️, now C# is my best friend
+- Well versed in TypeScript 🌐
 - Comfortable with Go 📨
 - Trying out Clojure & Lisp λ
 
-Other languages I've worked with: C, C++, Microsoft Java, PHP, Python, Dart
+Other languages I've worked with: C, C++, PHP, Python, Dart
 
 Other languages I've tried for fun: Elixir, Erlang, Gleam, CoffeeScript, Racket,
 F#, Haskell, OCaml, ReScript, Swift, Scala, Clojure, Bash, Lua.
